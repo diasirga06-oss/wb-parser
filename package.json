@@ -1,0 +1,5 @@
+{
+  "name":"wb-parser","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"dev":"vercel dev","start":"node server.js"},
+  "engines":{"node":">=20"}
+}

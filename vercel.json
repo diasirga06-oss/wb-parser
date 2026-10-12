@@ -1,0 +1,1 @@
+{"version":2,"rewrites":[{"source":"/api/product","destination":"/api/product.js"}]}
